@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "saurabhpvper",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "saurabhpawarr.aternos.me",
-    "port": 26056,
+    "ip": "Alya-PvP.aternos.me",
+    "port": 51119,
     "version": "1.20.1",
     "try-creative": false
   },
